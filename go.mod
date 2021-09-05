@@ -1,4 +1,4 @@
-module github.com/mscsh/gobase/structures
+module github.com/mscsh/gobase
 
 go 1.15
 
